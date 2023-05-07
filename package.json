@@ -12,7 +12,7 @@
     "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
-    "startbootstrap-grayscale": "^5.0.9"
+    "startbootstrap-grayscale": "^7.0.6"
   },
   "scripts": {
     "start": "react-scripts start",
